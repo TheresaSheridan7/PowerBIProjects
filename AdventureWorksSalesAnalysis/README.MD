@@ -1,5 +1,5 @@
-# Adventure Works Sales Analysis
+# Adventure Works Sales Data Analysis
 
-- Dataset: AdventureWorksSalesAnalysis.xlsx
+- Dataset: AdventureWorksSalesData.xlsx
 - Power BI file : AdventureWorksSalesAnalysis.pbix
 - Power BI file exported to PDF : AdventureWorksSalesAnalysis.pdf
